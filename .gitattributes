@@ -1,0 +1,10 @@
+# 所有文本文件默认使用 LF，提交时自动转换
+* text=auto eol=lf
+
+# 脚本文件（.sh）强制 LF（避免Windows换行符导致脚本执行失败）
+*.sh text eol=lf
+
+# 二进制文件不转换换行符
+*.png binary
+*.jpg binary
+*.so binary

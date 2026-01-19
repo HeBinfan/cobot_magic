@@ -1,0 +1,2 @@
+piper:piper_msgs
+-DCATKIN_DEVEL_PREFIX=/home/agilex/cobot_magic/Piper_ros_private-ros-noetic/devel -DCMAKE_INSTALL_PREFIX=/home/agilex/cobot_magic/Piper_ros_private-ros-noetic/install -G Unix Makefiles

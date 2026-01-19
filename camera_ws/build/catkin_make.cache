@@ -1,0 +1,2 @@
+realsense-ros/realsense2_camera:realsense-ros/realsense2_description:ros_astra_camera
+-DCATKIN_DEVEL_PREFIX=/home/agilex/cobot_magic/camera_ws/devel -DCMAKE_INSTALL_PREFIX=/home/agilex/cobot_magic/camera_ws/install -G Unix Makefiles
