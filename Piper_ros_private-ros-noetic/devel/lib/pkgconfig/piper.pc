@@ -1,8 +1,0 @@
-prefix=/home/agilex/cobot_magic/Piper_ros_private-ros-noetic/devel
-
-Name: piper
-Description: Description of piper
-Version: 0.0.0
-Cflags: 
-Libs: -L${prefix}/lib 
-Requires: actionlib actionlib_msgs control_msgs roscpp rospy sensor_msgs std_msgs trajectory_msgs message_generation geometry_msgs
